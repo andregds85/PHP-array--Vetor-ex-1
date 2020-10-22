@@ -24,6 +24,7 @@ while ($produto = mysqli_fetch_array($produtos)) {
        /* apresentado igual a echo */
        var_dump($vertorid);     
        var_dump($vetormodelo);
+       var_dump($vetorano);
   
 
 ?>
